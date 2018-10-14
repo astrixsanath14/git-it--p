@@ -22,3 +22,19 @@ select * from students;
 
 //-------------------------------------------------
 //-------------------------------------------------
+
+JAR files
+
+1.  Compressing an Extracted Jar File:
+        jar cf jar-file input-file(s)
+2.  Extract JAR file
+        jar xvf /path/to/file.jar
+3. Open a Java class
+	javap -c <name of java class file> 
+    < OR >
+	Open the java class file in IntelliJ Idea CE
+
+//-------------------------------------------------
+//-------------------------------------------------
+
+
